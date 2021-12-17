@@ -1,0 +1,1661 @@
+[
+    {
+        "rank": "1º",
+        "floor": "50º",
+        "nickname": "AlphaZero",
+        "time": "00h04m40s",
+        "date": "15 de Dezembro de 2021 às 10:23"
+    },
+    {
+        "rank": "2º",
+        "floor": "50º",
+        "nickname": "ExMaquina",
+        "time": "00h05m02s",
+        "date": "8 de Dezembro de 2021 às 21:58"
+    },
+    {
+        "rank": "1º",
+        "floor": "49º",
+        "nickname": "AlphaZero",
+        "time": "00h04m51s",
+        "date": "15 de Dezembro de 2021 às 09:56"
+    },
+    {
+        "rank": "2º",
+        "floor": "49º",
+        "nickname": "ExMaquina",
+        "time": "00h05m21s",
+        "date": "8 de Dezembro de 2021 às 21:52"
+    },
+    {
+        "rank": "1º",
+        "floor": "48º",
+        "nickname": "AlphaZero",
+        "time": "00h05m51s",
+        "date": "15 de Dezembro de 2021 às 09:35"
+    },
+    {
+        "rank": "2º",
+        "floor": "48º",
+        "nickname": "ExMaquina",
+        "time": "00h06m31s",
+        "date": "8 de Dezembro de 2021 às 21:45"
+    },
+    {
+        "rank": "1º",
+        "floor": "47º",
+        "nickname": "ExMaquina",
+        "time": "00h05m20s",
+        "date": "8 de Dezembro de 2021 às 21:38"
+    },
+    {
+        "rank": "2º",
+        "floor": "47º",
+        "nickname": "AlphaZero",
+        "time": "00h06m21s",
+        "date": "15 de Dezembro de 2021 às 09:29"
+    },
+    {
+        "rank": "1º",
+        "floor": "46º",
+        "nickname": "ExDeus",
+        "time": "00h05m12s",
+        "date": "13 de Dezembro de 2021 às 09:20"
+    },
+    {
+        "rank": "2º",
+        "floor": "46º",
+        "nickname": "ExMaquina",
+        "time": "00h05m52s",
+        "date": "9 de Dezembro de 2021 às 01:44"
+    },
+    {
+        "rank": "3º",
+        "floor": "46º",
+        "nickname": "LeoHelloween",
+        "time": "00h08m00s",
+        "date": "2 de Dezembro de 2021 às 16:54"
+    },
+    {
+        "rank": "4º",
+        "floor": "46º",
+        "nickname": "AlphaZero",
+        "time": "00h08m47s",
+        "date": "15 de Dezembro de 2021 às 09:21"
+    },
+    {
+        "rank": "1º",
+        "floor": "45º",
+        "nickname": "AlphaZero",
+        "time": "00h05m28s",
+        "date": "15 de Dezembro de 2021 às 09:12"
+    },
+    {
+        "rank": "2º",
+        "floor": "45º",
+        "nickname": "ExDeus",
+        "time": "00h06m20s",
+        "date": "13 de Dezembro de 2021 às 07:56"
+    },
+    {
+        "rank": "3º",
+        "floor": "45º",
+        "nickname": "LeoHelloween",
+        "time": "00h06m24s",
+        "date": "2 de Dezembro de 2021 às 16:33"
+    },
+    {
+        "rank": "4º",
+        "floor": "45º",
+        "nickname": "ExMaquina",
+        "time": "00h07m15s",
+        "date": "9 de Dezembro de 2021 às 01:38"
+    },
+    {
+        "rank": "5º",
+        "floor": "45º",
+        "nickname": "Alco",
+        "time": "00h09m46s",
+        "date": "10 de Dezembro de 2021 às 13:04"
+    },
+    {
+        "rank": "1º",
+        "floor": "44º",
+        "nickname": "ExMaquina",
+        "time": "00h05m47s",
+        "date": "9 de Dezembro de 2021 às 01:30"
+    },
+    {
+        "rank": "2º",
+        "floor": "44º",
+        "nickname": "ExDeus",
+        "time": "00h07m04s",
+        "date": "13 de Dezembro de 2021 às 07:49"
+    },
+    {
+        "rank": "3º",
+        "floor": "44º",
+        "nickname": "AlphaZero",
+        "time": "00h08m07s",
+        "date": "15 de Dezembro de 2021 às 09:05"
+    },
+    {
+        "rank": "4º",
+        "floor": "44º",
+        "nickname": "Alco",
+        "time": "00h09m30s",
+        "date": "9 de Dezembro de 2021 às 20:44"
+    },
+    {
+        "rank": "5º",
+        "floor": "44º",
+        "nickname": "LeoHelloween",
+        "time": "00h10m51s",
+        "date": "2 de Dezembro de 2021 às 16:16"
+    },
+    {
+        "rank": "1º",
+        "floor": "43º",
+        "nickname": "AlphaZero",
+        "time": "00h04m53s",
+        "date": "15 de Dezembro de 2021 às 10:45"
+    },
+    {
+        "rank": "2º",
+        "floor": "43º",
+        "nickname": "LeoHelloween",
+        "time": "00h06m36s",
+        "date": "2 de Dezembro de 2021 às 16:00"
+    },
+    {
+        "rank": "3º",
+        "floor": "43º",
+        "nickname": "ExMaquina",
+        "time": "00h06m44s",
+        "date": "8 de Dezembro de 2021 às 21:05"
+    },
+    {
+        "rank": "4º",
+        "floor": "43º",
+        "nickname": "ExDeus",
+        "time": "00h07m00s",
+        "date": "13 de Dezembro de 2021 às 07:41"
+    },
+    {
+        "rank": "5º",
+        "floor": "43º",
+        "nickname": "Alco",
+        "time": "00h07m38s",
+        "date": "9 de Dezembro de 2021 às 20:34"
+    },
+    {
+        "rank": "1º",
+        "floor": "42º",
+        "nickname": "ExMaquina",
+        "time": "00h05m00s",
+        "date": "8 de Dezembro de 2021 às 20:57"
+    },
+    {
+        "rank": "2º",
+        "floor": "42º",
+        "nickname": "LeoHelloween",
+        "time": "00h05m13s",
+        "date": "2 de Dezembro de 2021 às 15:10"
+    },
+    {
+        "rank": "3º",
+        "floor": "42º",
+        "nickname": "AlphaZero",
+        "time": "00h06m26s",
+        "date": "15 de Dezembro de 2021 às 08:35"
+    },
+    {
+        "rank": "4º",
+        "floor": "42º",
+        "nickname": "Alco",
+        "time": "00h07m51s",
+        "date": "9 de Dezembro de 2021 às 20:08"
+    },
+    {
+        "rank": "5º",
+        "floor": "42º",
+        "nickname": "ExDeus",
+        "time": "00h08m36s",
+        "date": "13 de Dezembro de 2021 às 07:33"
+    },
+    {
+        "rank": "1º",
+        "floor": "41º",
+        "nickname": "ExMaquina",
+        "time": "00h04m49s",
+        "date": "12 de Dezembro de 2021 às 15:52"
+    },
+    {
+        "rank": "2º",
+        "floor": "41º",
+        "nickname": "ExDeus",
+        "time": "00h06m11s",
+        "date": "13 de Dezembro de 2021 às 07:24"
+    },
+    {
+        "rank": "3º",
+        "floor": "41º",
+        "nickname": "AlphaZero",
+        "time": "00h06m29s",
+        "date": "15 de Dezembro de 2021 às 08:28"
+    },
+    {
+        "rank": "4º",
+        "floor": "41º",
+        "nickname": "Alco",
+        "time": "00h09m31s",
+        "date": "9 de Dezembro de 2021 às 19:58"
+    },
+    {
+        "rank": "5º",
+        "floor": "41º",
+        "nickname": "LeoHelloween",
+        "time": "00h10m06s",
+        "date": "2 de Dezembro de 2021 às 15:04"
+    },
+    {
+        "rank": "1º",
+        "floor": "40º",
+        "nickname": "ExMaquina",
+        "time": "00h04m37s",
+        "date": "8 de Dezembro de 2021 às 20:45"
+    },
+    {
+        "rank": "2º",
+        "floor": "40º",
+        "nickname": "ExDeus",
+        "time": "00h05m53s",
+        "date": "13 de Dezembro de 2021 às 07:16"
+    },
+    {
+        "rank": "3º",
+        "floor": "40º",
+        "nickname": "AlphaZero",
+        "time": "00h06m25s",
+        "date": "15 de Dezembro de 2021 às 08:21"
+    },
+    {
+        "rank": "4º",
+        "floor": "40º",
+        "nickname": "Alco",
+        "time": "00h07m44s",
+        "date": "5 de Dezembro de 2021 às 15:03"
+    },
+    {
+        "rank": "5º",
+        "floor": "40º",
+        "nickname": "LeoHelloween",
+        "time": "00h08m40s",
+        "date": "2 de Dezembro de 2021 às 14:46"
+    },
+    {
+        "rank": "1º",
+        "floor": "39º",
+        "nickname": "ExMaquina",
+        "time": "00h04m11s",
+        "date": "8 de Dezembro de 2021 às 18:40"
+    },
+    {
+        "rank": "2º",
+        "floor": "39º",
+        "nickname": "AlphaZero",
+        "time": "00h05m22s",
+        "date": "15 de Dezembro de 2021 às 08:13"
+    },
+    {
+        "rank": "3º",
+        "floor": "39º",
+        "nickname": "Alco",
+        "time": "00h06m01s",
+        "date": "5 de Dezembro de 2021 às 14:28"
+    },
+    {
+        "rank": "4º",
+        "floor": "39º",
+        "nickname": "ExDeus",
+        "time": "00h07m26s",
+        "date": "13 de Dezembro de 2021 às 07:09"
+    },
+    {
+        "rank": "5º",
+        "floor": "39º",
+        "nickname": "LeoHelloween",
+        "time": "00h07m28s",
+        "date": "2 de Dezembro de 2021 às 14:36"
+    },
+    {
+        "rank": "1º",
+        "floor": "38º",
+        "nickname": "ExMaquina",
+        "time": "00h04m32s",
+        "date": "8 de Dezembro de 2021 às 18:35"
+    },
+    {
+        "rank": "2º",
+        "floor": "38º",
+        "nickname": "ExDeus",
+        "time": "00h04m55s",
+        "date": "13 de Dezembro de 2021 às 06:58"
+    },
+    {
+        "rank": "3º",
+        "floor": "38º",
+        "nickname": "AlphaZero",
+        "time": "00h06m39s",
+        "date": "15 de Dezembro de 2021 às 08:07"
+    },
+    {
+        "rank": "4º",
+        "floor": "38º",
+        "nickname": "LeoHelloween",
+        "time": "00h08m51s",
+        "date": "2 de Dezembro de 2021 às 14:26"
+    },
+    {
+        "rank": "5º",
+        "floor": "38º",
+        "nickname": "Alco",
+        "time": "00h09m55s",
+        "date": "5 de Dezembro de 2021 às 14:21"
+    },
+    {
+        "rank": "1º",
+        "floor": "37º",
+        "nickname": "AlphaZero",
+        "time": "00h05m17s",
+        "date": "15 de Dezembro de 2021 às 10:53"
+    },
+    {
+        "rank": "2º",
+        "floor": "37º",
+        "nickname": "Alco",
+        "time": "00h05m27s",
+        "date": "5 de Dezembro de 2021 às 14:10"
+    },
+    {
+        "rank": "3º",
+        "floor": "37º",
+        "nickname": "LeoHelloween",
+        "time": "00h05m59s",
+        "date": "2 de Dezembro de 2021 às 13:38"
+    },
+    {
+        "rank": "4º",
+        "floor": "37º",
+        "nickname": "ExMaquina",
+        "time": "00h06m03s",
+        "date": "12 de Dezembro de 2021 às 15:19"
+    },
+    {
+        "rank": "5º",
+        "floor": "37º",
+        "nickname": "ExDeus",
+        "time": "00h06m11s",
+        "date": "13 de Dezembro de 2021 às 06:52"
+    },
+    {
+        "rank": "1º",
+        "floor": "36º",
+        "nickname": "ExMaquina",
+        "time": "00h04m48s",
+        "date": "9 de Dezembro de 2021 às 00:29"
+    },
+    {
+        "rank": "2º",
+        "floor": "36º",
+        "nickname": "Alco",
+        "time": "00h05m27s",
+        "date": "5 de Dezembro de 2021 às 14:04"
+    },
+    {
+        "rank": "3º",
+        "floor": "36º",
+        "nickname": "AlphaZero",
+        "time": "00h05m42s",
+        "date": "15 de Dezembro de 2021 às 07:49"
+    },
+    {
+        "rank": "4º",
+        "floor": "36º",
+        "nickname": "LeoHelloween",
+        "time": "00h05m59s",
+        "date": "2 de Dezembro de 2021 às 11:59"
+    },
+    {
+        "rank": "5º",
+        "floor": "36º",
+        "nickname": "ExDeus",
+        "time": "00h07m05s",
+        "date": "13 de Dezembro de 2021 às 06:44"
+    },
+    {
+        "rank": "1º",
+        "floor": "35º",
+        "nickname": "ExMaquina",
+        "time": "00h04m36s",
+        "date": "12 de Dezembro de 2021 às 16:32"
+    },
+    {
+        "rank": "2º",
+        "floor": "35º",
+        "nickname": "ExDeus",
+        "time": "00h05m33s",
+        "date": "13 de Dezembro de 2021 às 06:35"
+    },
+    {
+        "rank": "3º",
+        "floor": "35º",
+        "nickname": "AlphaZero",
+        "time": "00h08m46s",
+        "date": "15 de Dezembro de 2021 às 01:41"
+    },
+    {
+        "rank": "4º",
+        "floor": "35º",
+        "nickname": "LeoHelloween",
+        "time": "00h09m15s",
+        "date": "2 de Dezembro de 2021 às 11:51"
+    },
+    {
+        "rank": "5º",
+        "floor": "35º",
+        "nickname": "Alco",
+        "time": "00h10m02s",
+        "date": "5 de Dezembro de 2021 às 13:44"
+    },
+    {
+        "rank": "1º",
+        "floor": "34º",
+        "nickname": "ExMaquina",
+        "time": "00h05m12s",
+        "date": "12 de Dezembro de 2021 às 16:26"
+    },
+    {
+        "rank": "2º",
+        "floor": "34º",
+        "nickname": "LeoHelloween",
+        "time": "00h05m41s",
+        "date": "2 de Dezembro de 2021 às 11:39"
+    },
+    {
+        "rank": "3º",
+        "floor": "34º",
+        "nickname": "Alco",
+        "time": "00h07m13s",
+        "date": "5 de Dezembro de 2021 às 13:33"
+    },
+    {
+        "rank": "4º",
+        "floor": "34º",
+        "nickname": "AlphaZero",
+        "time": "00h07m49s",
+        "date": "15 de Dezembro de 2021 às 01:21"
+    },
+    {
+        "rank": "5º",
+        "floor": "34º",
+        "nickname": "ExDeus",
+        "time": "00h08m36s",
+        "date": "13 de Dezembro de 2021 às 06:28"
+    },
+    {
+        "rank": "1º",
+        "floor": "33º",
+        "nickname": "AlphaZero",
+        "time": "00h04m35s",
+        "date": "15 de Dezembro de 2021 às 01:12"
+    },
+    {
+        "rank": "2º",
+        "floor": "33º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m43s",
+        "date": "2 de Dezembro de 2021 às 11:25"
+    },
+    {
+        "rank": "3º",
+        "floor": "33º",
+        "nickname": "ExMaquina",
+        "time": "00h04m54s",
+        "date": "9 de Dezembro de 2021 às 00:08"
+    },
+    {
+        "rank": "4º",
+        "floor": "33º",
+        "nickname": "ExDeus",
+        "time": "00h05m33s",
+        "date": "13 de Dezembro de 2021 às 06:18"
+    },
+    {
+        "rank": "5º",
+        "floor": "33º",
+        "nickname": "Alco",
+        "time": "00h08m27s",
+        "date": "5 de Dezembro de 2021 às 12:57"
+    },
+    {
+        "rank": "1º",
+        "floor": "32º",
+        "nickname": "ExMaquina",
+        "time": "00h04m36s",
+        "date": "12 de Dezembro de 2021 às 16:14"
+    },
+    {
+        "rank": "2º",
+        "floor": "32º",
+        "nickname": "ExDeus",
+        "time": "00h05m07s",
+        "date": "13 de Dezembro de 2021 às 06:12"
+    },
+    {
+        "rank": "3º",
+        "floor": "32º",
+        "nickname": "Alco",
+        "time": "00h05m50s",
+        "date": "5 de Dezembro de 2021 às 12:47"
+    },
+    {
+        "rank": "4º",
+        "floor": "32º",
+        "nickname": "AlphaZero",
+        "time": "00h07m11s",
+        "date": "15 de Dezembro de 2021 às 01:05"
+    },
+    {
+        "rank": "5º",
+        "floor": "32º",
+        "nickname": "LeoHelloween",
+        "time": "00h09m52s",
+        "date": "2 de Dezembro de 2021 às 11:20"
+    },
+    {
+        "rank": "1º",
+        "floor": "31º",
+        "nickname": "AlphaZero",
+        "time": "00h05m24s",
+        "date": "15 de Dezembro de 2021 às 11:01"
+    },
+    {
+        "rank": "2º",
+        "floor": "31º",
+        "nickname": "LeoHelloween",
+        "time": "00h05m27s",
+        "date": "2 de Dezembro de 2021 às 11:08"
+    },
+    {
+        "rank": "3º",
+        "floor": "31º",
+        "nickname": "ExMaquina",
+        "time": "00h05m37s",
+        "date": "12 de Dezembro de 2021 às 16:09"
+    },
+    {
+        "rank": "4º",
+        "floor": "31º",
+        "nickname": "Alco",
+        "time": "00h06m29s",
+        "date": "5 de Dezembro de 2021 às 12:41"
+    },
+    {
+        "rank": "5º",
+        "floor": "31º",
+        "nickname": "ExDeus",
+        "time": "00h06m58s",
+        "date": "13 de Dezembro de 2021 às 06:06"
+    },
+    {
+        "rank": "1º",
+        "floor": "30º",
+        "nickname": "ExMaquina",
+        "time": "00h04m55s",
+        "date": "12 de Dezembro de 2021 às 16:02"
+    },
+    {
+        "rank": "2º",
+        "floor": "30º",
+        "nickname": "AlphaZero",
+        "time": "00h05m09s",
+        "date": "15 de Dezembro de 2021 às 00:47"
+    },
+    {
+        "rank": "3º",
+        "floor": "30º",
+        "nickname": "ExDeus",
+        "time": "00h05m36s",
+        "date": "13 de Dezembro de 2021 às 05:58"
+    },
+    {
+        "rank": "4º",
+        "floor": "30º",
+        "nickname": "LeoHelloween",
+        "time": "00h06m06s",
+        "date": "2 de Dezembro de 2021 às 11:02"
+    },
+    {
+        "rank": "5º",
+        "floor": "30º",
+        "nickname": "Alco",
+        "time": "00h08m28s",
+        "date": "5 de Dezembro de 2021 às 11:09"
+    },
+    {
+        "rank": "1º",
+        "floor": "29º",
+        "nickname": "ExMaquina",
+        "time": "00h04m41s",
+        "date": "8 de Dezembro de 2021 às 15:58"
+    },
+    {
+        "rank": "2º",
+        "floor": "29º",
+        "nickname": "LeoHelloween",
+        "time": "00h05m17s",
+        "date": "1 de Dezembro de 2021 às 17:29"
+    },
+    {
+        "rank": "3º",
+        "floor": "29º",
+        "nickname": "AlphaZero",
+        "time": "00h05m36s",
+        "date": "15 de Dezembro de 2021 às 00:41"
+    },
+    {
+        "rank": "4º",
+        "floor": "29º",
+        "nickname": "Alco",
+        "time": "00h06m11s",
+        "date": "5 de Dezembro de 2021 às 10:59"
+    },
+    {
+        "rank": "5º",
+        "floor": "29º",
+        "nickname": "ExDeus",
+        "time": "00h08m48s",
+        "date": "12 de Dezembro de 2021 às 19:28"
+    },
+    {
+        "rank": "1º",
+        "floor": "28º",
+        "nickname": "AlphaZero",
+        "time": "00h04m07s",
+        "date": "15 de Dezembro de 2021 às 00:34"
+    },
+    {
+        "rank": "2º",
+        "floor": "28º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m51s",
+        "date": "1 de Dezembro de 2021 às 17:21"
+    },
+    {
+        "rank": "3º",
+        "floor": "28º",
+        "nickname": "ExMaquina",
+        "time": "00h05m05s",
+        "date": "8 de Dezembro de 2021 às 15:52"
+    },
+    {
+        "rank": "4º",
+        "floor": "28º",
+        "nickname": "TIGRE",
+        "time": "00h06m17s",
+        "date": "8 de Dezembro de 2021 às 09:06"
+    },
+    {
+        "rank": "5º",
+        "floor": "28º",
+        "nickname": "ExDeus",
+        "time": "00h06m25s",
+        "date": "12 de Dezembro de 2021 às 19:18"
+    },
+    {
+        "rank": "1º",
+        "floor": "27º",
+        "nickname": "AlphaZero",
+        "time": "00h04m28s",
+        "date": "15 de Dezembro de 2021 às 11:19"
+    },
+    {
+        "rank": "2º",
+        "floor": "27º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m56s",
+        "date": "1 de Dezembro de 2021 às 17:15"
+    },
+    {
+        "rank": "3º",
+        "floor": "27º",
+        "nickname": "ExDeus",
+        "time": "00h05m51s",
+        "date": "12 de Dezembro de 2021 às 19:10"
+    },
+    {
+        "rank": "4º",
+        "floor": "27º",
+        "nickname": "TIGRE",
+        "time": "00h05m54s",
+        "date": "8 de Dezembro de 2021 às 08:58"
+    },
+    {
+        "rank": "5º",
+        "floor": "27º",
+        "nickname": "ExMaquina",
+        "time": "00h06m26s",
+        "date": "8 de Dezembro de 2021 às 15:46"
+    },
+    {
+        "rank": "1º",
+        "floor": "26º",
+        "nickname": "AlphaZero",
+        "time": "00h04m16s",
+        "date": "15 de Dezembro de 2021 às 00:22"
+    },
+    {
+        "rank": "2º",
+        "floor": "26º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m28s",
+        "date": "1 de Dezembro de 2021 às 16:59"
+    },
+    {
+        "rank": "3º",
+        "floor": "26º",
+        "nickname": "ExMaquina",
+        "time": "00h05m09s",
+        "date": "8 de Dezembro de 2021 às 15:34"
+    },
+    {
+        "rank": "4º",
+        "floor": "26º",
+        "nickname": "TIGRE",
+        "time": "00h06m09s",
+        "date": "6 de Dezembro de 2021 às 18:49"
+    },
+    {
+        "rank": "5º",
+        "floor": "26º",
+        "nickname": "ExDeus",
+        "time": "00h07m54s",
+        "date": "12 de Dezembro de 2021 às 19:03"
+    },
+    {
+        "rank": "1º",
+        "floor": "25º",
+        "nickname": "ExDeus",
+        "time": "00h04m27s",
+        "date": "12 de Dezembro de 2021 às 18:54"
+    },
+    {
+        "rank": "2º",
+        "floor": "25º",
+        "nickname": "AlphaZero",
+        "time": "00h04m41s",
+        "date": "15 de Dezembro de 2021 às 00:16"
+    },
+    {
+        "rank": "3º",
+        "floor": "25º",
+        "nickname": "Alco",
+        "time": "00h04m44s",
+        "date": "5 de Dezembro de 2021 às 10:24"
+    },
+    {
+        "rank": "4º",
+        "floor": "25º",
+        "nickname": "TIGRE",
+        "time": "00h05m37s",
+        "date": "6 de Dezembro de 2021 às 18:42"
+    },
+    {
+        "rank": "5º",
+        "floor": "25º",
+        "nickname": "LeoHelloween",
+        "time": "00h06m22s",
+        "date": "1 de Dezembro de 2021 às 16:52"
+    },
+    {
+        "rank": "1º",
+        "floor": "24º",
+        "nickname": "AlphaZero",
+        "time": "00h04m26s",
+        "date": "15 de Dezembro de 2021 às 00:11"
+    },
+    {
+        "rank": "2º",
+        "floor": "24º",
+        "nickname": "Alco",
+        "time": "00h04m51s",
+        "date": "5 de Dezembro de 2021 às 10:19"
+    },
+    {
+        "rank": "3º",
+        "floor": "24º",
+        "nickname": "ExDeus",
+        "time": "00h05m18s",
+        "date": "12 de Dezembro de 2021 às 18:48"
+    },
+    {
+        "rank": "4º",
+        "floor": "24º",
+        "nickname": "LeoHelloween",
+        "time": "00h05m24s",
+        "date": "1 de Dezembro de 2021 às 16:18"
+    },
+    {
+        "rank": "5º",
+        "floor": "24º",
+        "nickname": "ManKiller",
+        "time": "00h05m30s",
+        "date": "6 de Dezembro de 2021 às 23:33"
+    },
+    {
+        "rank": "1º",
+        "floor": "23º",
+        "nickname": "AlphaZero",
+        "time": "00h04m32s",
+        "date": "15 de Dezembro de 2021 às 00:06"
+    },
+    {
+        "rank": "2º",
+        "floor": "23º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m49s",
+        "date": "1 de Dezembro de 2021 às 16:01"
+    },
+    {
+        "rank": "3º",
+        "floor": "23º",
+        "nickname": "ExMaquina",
+        "time": "00h05m08s",
+        "date": "8 de Dezembro de 2021 às 15:07"
+    },
+    {
+        "rank": "4º",
+        "floor": "23º",
+        "nickname": "ExDeus",
+        "time": "00h05m26s",
+        "date": "12 de Dezembro de 2021 às 18:42"
+    },
+    {
+        "rank": "5º",
+        "floor": "23º",
+        "nickname": "TIGRE",
+        "time": "00h05m55s",
+        "date": "6 de Dezembro de 2021 às 18:23"
+    },
+    {
+        "rank": "1º",
+        "floor": "22º",
+        "nickname": "ExDeus",
+        "time": "00h04m11s",
+        "date": "12 de Dezembro de 2021 às 18:34"
+    },
+    {
+        "rank": "2º",
+        "floor": "22º",
+        "nickname": "AlphaZero",
+        "time": "00h04m21s",
+        "date": "15 de Dezembro de 2021 às 00:00"
+    },
+    {
+        "rank": "3º",
+        "floor": "22º",
+        "nickname": "ExMaquina",
+        "time": "00h05m15s",
+        "date": "8 de Dezembro de 2021 às 15:00"
+    },
+    {
+        "rank": "4º",
+        "floor": "22º",
+        "nickname": "ManKiller",
+        "time": "00h06m10s",
+        "date": "6 de Dezembro de 2021 às 01:17"
+    },
+    {
+        "rank": "5º",
+        "floor": "22º",
+        "nickname": "LeoHelloween",
+        "time": "00h06m38s",
+        "date": "1 de Dezembro de 2021 às 15:53"
+    },
+    {
+        "rank": "1º",
+        "floor": "21º",
+        "nickname": "ExDeus",
+        "time": "00h04m55s",
+        "date": "12 de Dezembro de 2021 às 18:29"
+    },
+    {
+        "rank": "2º",
+        "floor": "21º",
+        "nickname": "ExMaquina",
+        "time": "00h05m09s",
+        "date": "8 de Dezembro de 2021 às 14:53"
+    },
+    {
+        "rank": "3º",
+        "floor": "21º",
+        "nickname": "ManKiller",
+        "time": "00h06m00s",
+        "date": "6 de Dezembro de 2021 às 01:09"
+    },
+    {
+        "rank": "4º",
+        "floor": "21º",
+        "nickname": "LeoHelloween",
+        "time": "00h06m29s",
+        "date": "1 de Dezembro de 2021 às 15:45"
+    },
+    {
+        "rank": "5º",
+        "floor": "21º",
+        "nickname": "AlphaZero",
+        "time": "00h07m37s",
+        "date": "14 de Dezembro de 2021 às 23:55"
+    },
+    {
+        "rank": "1º",
+        "floor": "20º",
+        "nickname": "ExMaquina",
+        "time": "00h05m19s",
+        "date": "8 de Dezembro de 2021 às 14:47"
+    },
+    {
+        "rank": "2º",
+        "floor": "20º",
+        "nickname": "ExDeus",
+        "time": "00h05m24s",
+        "date": "13 de Dezembro de 2021 às 11:02"
+    },
+    {
+        "rank": "3º",
+        "floor": "20º",
+        "nickname": "ManKiller",
+        "time": "00h05m28s",
+        "date": "6 de Dezembro de 2021 às 01:03"
+    },
+    {
+        "rank": "4º",
+        "floor": "20º",
+        "nickname": "Alco",
+        "time": "00h05m52s",
+        "date": "4 de Dezembro de 2021 às 19:24"
+    },
+    {
+        "rank": "5º",
+        "floor": "20º",
+        "nickname": "AlphaZero",
+        "time": "00h05m56s",
+        "date": "14 de Dezembro de 2021 às 23:47"
+    },
+    {
+        "rank": "1º",
+        "floor": "19º",
+        "nickname": "AlphaZero",
+        "time": "00h04m24s",
+        "date": "14 de Dezembro de 2021 às 23:40"
+    },
+    {
+        "rank": "2º",
+        "floor": "19º",
+        "nickname": "ExDeus",
+        "time": "00h04m42s",
+        "date": "13 de Dezembro de 2021 às 12:18"
+    },
+    {
+        "rank": "3º",
+        "floor": "19º",
+        "nickname": "TIGRE",
+        "time": "00h05m15s",
+        "date": "6 de Dezembro de 2021 às 17:46"
+    },
+    {
+        "rank": "4º",
+        "floor": "19º",
+        "nickname": "ManKiller",
+        "time": "00h05m36s",
+        "date": "6 de Dezembro de 2021 às 00:22"
+    },
+    {
+        "rank": "5º",
+        "floor": "19º",
+        "nickname": "ExMaquina",
+        "time": "00h06m09s",
+        "date": "8 de Dezembro de 2021 às 14:41"
+    },
+    {
+        "rank": "1º",
+        "floor": "18º",
+        "nickname": "ExDeus",
+        "time": "00h03m52s",
+        "date": "13 de Dezembro de 2021 às 12:12"
+    },
+    {
+        "rank": "2º",
+        "floor": "18º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m22s",
+        "date": "1 de Dezembro de 2021 às 15:20"
+    },
+    {
+        "rank": "3º",
+        "floor": "18º",
+        "nickname": "Alco",
+        "time": "00h05m35s",
+        "date": "4 de Dezembro de 2021 às 18:38"
+    },
+    {
+        "rank": "4º",
+        "floor": "18º",
+        "nickname": "AlphaZero",
+        "time": "00h05m47s",
+        "date": "14 de Dezembro de 2021 às 23:31"
+    },
+    {
+        "rank": "5º",
+        "floor": "18º",
+        "nickname": "ManKiller",
+        "time": "00h06m05s",
+        "date": "6 de Dezembro de 2021 às 00:16"
+    },
+    {
+        "rank": "1º",
+        "floor": "17º",
+        "nickname": "ExDeus",
+        "time": "00h04m13s",
+        "date": "13 de Dezembro de 2021 às 12:07"
+    },
+    {
+        "rank": "2º",
+        "floor": "17º",
+        "nickname": "AlphaZero",
+        "time": "00h04m36s",
+        "date": "14 de Dezembro de 2021 às 23:25"
+    },
+    {
+        "rank": "3º",
+        "floor": "17º",
+        "nickname": "Alco",
+        "time": "00h05m09s",
+        "date": "4 de Dezembro de 2021 às 18:32"
+    },
+    {
+        "rank": "4º",
+        "floor": "17º",
+        "nickname": "LeoHelloween",
+        "time": "00h05m29s",
+        "date": "1 de Dezembro de 2021 às 15:13"
+    },
+    {
+        "rank": "5º",
+        "floor": "17º",
+        "nickname": "ManKiller",
+        "time": "00h06m12s",
+        "date": "6 de Dezembro de 2021 às 00:09"
+    },
+    {
+        "rank": "1º",
+        "floor": "16º",
+        "nickname": "ExMaquina",
+        "time": "00h03m39s",
+        "date": "8 de Dezembro de 2021 às 14:18"
+    },
+    {
+        "rank": "2º",
+        "floor": "16º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m11s",
+        "date": "1 de Dezembro de 2021 às 15:05"
+    },
+    {
+        "rank": "3º",
+        "floor": "16º",
+        "nickname": "ExDeus",
+        "time": "00h04m16s",
+        "date": "12 de Dezembro de 2021 às 16:22"
+    },
+    {
+        "rank": "4º",
+        "floor": "16º",
+        "nickname": "Alco",
+        "time": "00h04m42s",
+        "date": "4 de Dezembro de 2021 às 18:25"
+    },
+    {
+        "rank": "5º",
+        "floor": "16º",
+        "nickname": "ManKiller",
+        "time": "00h05m42s",
+        "date": "6 de Dezembro de 2021 às 00:02"
+    },
+    {
+        "rank": "1º",
+        "floor": "15º",
+        "nickname": "ExDeus",
+        "time": "00h03m47s",
+        "date": "14 de Dezembro de 2021 às 18:42"
+    },
+    {
+        "rank": "2º",
+        "floor": "15º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m44s",
+        "date": "1 de Dezembro de 2021 às 15:00"
+    },
+    {
+        "rank": "3º",
+        "floor": "15º",
+        "nickname": "ExMaquina",
+        "time": "00h05m03s",
+        "date": "8 de Dezembro de 2021 às 14:13"
+    },
+    {
+        "rank": "4º",
+        "floor": "15º",
+        "nickname": "TIGRE",
+        "time": "00h05m44s",
+        "date": "1 de Dezembro de 2021 às 23:34"
+    },
+    {
+        "rank": "5º",
+        "floor": "15º",
+        "nickname": "Alco",
+        "time": "00h05m44s",
+        "date": "4 de Dezembro de 2021 às 18:19"
+    },
+    {
+        "rank": "1º",
+        "floor": "14º",
+        "nickname": "ExDeus",
+        "time": "00h03m39s",
+        "date": "13 de Dezembro de 2021 às 10:15"
+    },
+    {
+        "rank": "2º",
+        "floor": "14º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m34s",
+        "date": "1 de Dezembro de 2021 às 13:35"
+    },
+    {
+        "rank": "3º",
+        "floor": "14º",
+        "nickname": "TIGRE",
+        "time": "00h05m00s",
+        "date": "1 de Dezembro de 2021 às 22:08"
+    },
+    {
+        "rank": "4º",
+        "floor": "14º",
+        "nickname": "AlphaZero",
+        "time": "00h05m01s",
+        "date": "14 de Dezembro de 2021 às 23:03"
+    },
+    {
+        "rank": "5º",
+        "floor": "14º",
+        "nickname": "ManKiller",
+        "time": "00h06m08s",
+        "date": "5 de Dezembro de 2021 às 23:45"
+    },
+    {
+        "rank": "1º",
+        "floor": "13º",
+        "nickname": "ExDeus",
+        "time": "00h03m43s",
+        "date": "14 de Dezembro de 2021 às 19:34"
+    },
+    {
+        "rank": "2º",
+        "floor": "13º",
+        "nickname": "AlphaZero",
+        "time": "00h04m06s",
+        "date": "14 de Dezembro de 2021 às 22:57"
+    },
+    {
+        "rank": "3º",
+        "floor": "13º",
+        "nickname": "xre",
+        "time": "00h05m03s",
+        "date": "1 de Dezembro de 2021 às 20:12"
+    },
+    {
+        "rank": "4º",
+        "floor": "13º",
+        "nickname": "Alco",
+        "time": "00h05m08s",
+        "date": "4 de Dezembro de 2021 às 18:04"
+    },
+    {
+        "rank": "5º",
+        "floor": "13º",
+        "nickname": "TIGRE",
+        "time": "00h05m28s",
+        "date": "1 de Dezembro de 2021 às 22:02"
+    },
+    {
+        "rank": "1º",
+        "floor": "12º",
+        "nickname": "ExDeus",
+        "time": "00h03m37s",
+        "date": "12 de Dezembro de 2021 às 15:55"
+    },
+    {
+        "rank": "2º",
+        "floor": "12º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m20s",
+        "date": "1 de Dezembro de 2021 às 13:09"
+    },
+    {
+        "rank": "3º",
+        "floor": "12º",
+        "nickname": "AlphaZero",
+        "time": "00h04m26s",
+        "date": "14 de Dezembro de 2021 às 22:46"
+    },
+    {
+        "rank": "4º",
+        "floor": "12º",
+        "nickname": "TIGRE",
+        "time": "00h05m05s",
+        "date": "1 de Dezembro de 2021 às 21:55"
+    },
+    {
+        "rank": "5º",
+        "floor": "12º",
+        "nickname": "Alco",
+        "time": "00h05m38s",
+        "date": "4 de Dezembro de 2021 às 17:35"
+    },
+    {
+        "rank": "1º",
+        "floor": "11º",
+        "nickname": "ExDeus",
+        "time": "00h03m42s",
+        "date": "16 de Dezembro de 2021 às 09:58"
+    },
+    {
+        "rank": "2º",
+        "floor": "11º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m09s",
+        "date": "1 de Dezembro de 2021 às 12:45"
+    },
+    {
+        "rank": "3º",
+        "floor": "11º",
+        "nickname": "AlphaZero",
+        "time": "00h04m40s",
+        "date": "15 de Dezembro de 2021 às 12:02"
+    },
+    {
+        "rank": "4º",
+        "floor": "11º",
+        "nickname": "ExMaquina",
+        "time": "00h04m49s",
+        "date": "8 de Dezembro de 2021 às 13:41"
+    },
+    {
+        "rank": "5º",
+        "floor": "11º",
+        "nickname": "ManKiller",
+        "time": "00h05m58s",
+        "date": "5 de Dezembro de 2021 às 01:50"
+    },
+    {
+        "rank": "1º",
+        "floor": "10º",
+        "nickname": "ExDeus",
+        "time": "00h03m06s",
+        "date": "16 de Dezembro de 2021 às 10:40"
+    },
+    {
+        "rank": "2º",
+        "floor": "10º",
+        "nickname": "LeoHelloween",
+        "time": "00h03m12s",
+        "date": "1 de Dezembro de 2021 às 12:40"
+    },
+    {
+        "rank": "3º",
+        "floor": "10º",
+        "nickname": "AlphaZero",
+        "time": "00h03m48s",
+        "date": "15 de Dezembro de 2021 às 12:24"
+    },
+    {
+        "rank": "4º",
+        "floor": "10º",
+        "nickname": "ExMaquina",
+        "time": "00h04m17s",
+        "date": "8 de Dezembro de 2021 às 13:34"
+    },
+    {
+        "rank": "5º",
+        "floor": "10º",
+        "nickname": "ManKiller",
+        "time": "00h04m19s",
+        "date": "5 de Dezembro de 2021 às 01:43"
+    },
+    {
+        "rank": "1º",
+        "floor": "9º",
+        "nickname": "AlphaZero",
+        "time": "00h03m52s",
+        "date": "14 de Dezembro de 2021 às 22:28"
+    },
+    {
+        "rank": "2º",
+        "floor": "9º",
+        "nickname": "TIGRE",
+        "time": "00h04m05s",
+        "date": "1 de Dezembro de 2021 às 21:10"
+    },
+    {
+        "rank": "3º",
+        "floor": "9º",
+        "nickname": "ExDeus",
+        "time": "00h04m05s",
+        "date": "12 de Dezembro de 2021 às 15:34"
+    },
+    {
+        "rank": "4º",
+        "floor": "9º",
+        "nickname": "ManKiller",
+        "time": "00h04m18s",
+        "date": "5 de Dezembro de 2021 às 01:37"
+    },
+    {
+        "rank": "5º",
+        "floor": "9º",
+        "nickname": "Alco",
+        "time": "00h05m53s",
+        "date": "4 de Dezembro de 2021 às 17:12"
+    },
+    {
+        "rank": "1º",
+        "floor": "8º",
+        "nickname": "ExDeus",
+        "time": "00h04m00s",
+        "date": "12 de Dezembro de 2021 às 15:29"
+    },
+    {
+        "rank": "2º",
+        "floor": "8º",
+        "nickname": "xre",
+        "time": "00h04m03s",
+        "date": "1 de Dezembro de 2021 às 19:29"
+    },
+    {
+        "rank": "3º",
+        "floor": "8º",
+        "nickname": "TIGRE",
+        "time": "00h05m07s",
+        "date": "1 de Dezembro de 2021 às 21:05"
+    },
+    {
+        "rank": "4º",
+        "floor": "8º",
+        "nickname": "AlphaZero",
+        "time": "00h05m46s",
+        "date": "14 de Dezembro de 2021 às 22:23"
+    },
+    {
+        "rank": "5º",
+        "floor": "8º",
+        "nickname": "Alco",
+        "time": "00h05m55s",
+        "date": "4 de Dezembro de 2021 às 17:05"
+    },
+    {
+        "rank": "1º",
+        "floor": "7º",
+        "nickname": "ExMaquina",
+        "time": "00h03m33s",
+        "date": "8 de Dezembro de 2021 às 13:14"
+    },
+    {
+        "rank": "2º",
+        "floor": "7º",
+        "nickname": "Alco",
+        "time": "00h04m18s",
+        "date": "4 de Dezembro de 2021 às 16:59"
+    },
+    {
+        "rank": "3º",
+        "floor": "7º",
+        "nickname": "ManKiller",
+        "time": "00h04m58s",
+        "date": "5 de Dezembro de 2021 às 01:25"
+    },
+    {
+        "rank": "4º",
+        "floor": "7º",
+        "nickname": "TIGRE",
+        "time": "00h05m13s",
+        "date": "1 de Dezembro de 2021 às 20:59"
+    },
+    {
+        "rank": "5º",
+        "floor": "7º",
+        "nickname": "xre",
+        "time": "00h06m16s",
+        "date": "1 de Dezembro de 2021 às 19:24"
+    },
+    {
+        "rank": "1º",
+        "floor": "6º",
+        "nickname": "ExDeus",
+        "time": "00h03m19s",
+        "date": "12 de Dezembro de 2021 às 15:16"
+    },
+    {
+        "rank": "2º",
+        "floor": "6º",
+        "nickname": "AlphaZero",
+        "time": "00h03m36s",
+        "date": "14 de Dezembro de 2021 às 22:04"
+    },
+    {
+        "rank": "3º",
+        "floor": "6º",
+        "nickname": "ExMaquina",
+        "time": "00h03m43s",
+        "date": "8 de Dezembro de 2021 às 13:09"
+    },
+    {
+        "rank": "4º",
+        "floor": "6º",
+        "nickname": "TIGRE",
+        "time": "00h04m30s",
+        "date": "1 de Dezembro de 2021 às 20:53"
+    },
+    {
+        "rank": "5º",
+        "floor": "6º",
+        "nickname": "ManKiller",
+        "time": "00h05m00s",
+        "date": "5 de Dezembro de 2021 às 01:19"
+    },
+    {
+        "rank": "1º",
+        "floor": "5º",
+        "nickname": "AlphaZero",
+        "time": "00h03m21s",
+        "date": "14 de Dezembro de 2021 às 22:00"
+    },
+    {
+        "rank": "2º",
+        "floor": "5º",
+        "nickname": "LeoHelloween",
+        "time": "00h03m36s",
+        "date": "1 de Dezembro de 2021 às 11:26"
+    },
+    {
+        "rank": "3º",
+        "floor": "5º",
+        "nickname": "ExMaquina",
+        "time": "00h03m37s",
+        "date": "8 de Dezembro de 2021 às 13:04"
+    },
+    {
+        "rank": "4º",
+        "floor": "5º",
+        "nickname": "ManKiller",
+        "time": "00h03m58s",
+        "date": "5 de Dezembro de 2021 às 01:13"
+    },
+    {
+        "rank": "5º",
+        "floor": "5º",
+        "nickname": "ExDeus",
+        "time": "00h04m05s",
+        "date": "12 de Dezembro de 2021 às 15:12"
+    },
+    {
+        "rank": "1º",
+        "floor": "4º",
+        "nickname": "ExDeus",
+        "time": "00h03m22s",
+        "date": "12 de Dezembro de 2021 às 15:07"
+    },
+    {
+        "rank": "2º",
+        "floor": "4º",
+        "nickname": "DaniloxeS",
+        "time": "00h03m26s",
+        "date": "2 de Dezembro de 2021 às 13:21"
+    },
+    {
+        "rank": "3º",
+        "floor": "4º",
+        "nickname": "xre",
+        "time": "00h04m05s",
+        "date": "1 de Dezembro de 2021 às 18:58"
+    },
+    {
+        "rank": "4º",
+        "floor": "4º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m13s",
+        "date": "1 de Dezembro de 2021 às 11:17"
+    },
+    {
+        "rank": "5º",
+        "floor": "4º",
+        "nickname": "Alco",
+        "time": "00h04m49s",
+        "date": "4 de Dezembro de 2021 às 16:42"
+    },
+    {
+        "rank": "1º",
+        "floor": "3º",
+        "nickname": "ExMaquina",
+        "time": "00h03m21s",
+        "date": "8 de Dezembro de 2021 às 12:53"
+    },
+    {
+        "rank": "2º",
+        "floor": "3º",
+        "nickname": "DaniloxeS",
+        "time": "00h03m46s",
+        "date": "2 de Dezembro de 2021 às 13:17"
+    },
+    {
+        "rank": "3º",
+        "floor": "3º",
+        "nickname": "LeoHelloween",
+        "time": "00h03m57s",
+        "date": "1 de Dezembro de 2021 às 11:10"
+    },
+    {
+        "rank": "4º",
+        "floor": "3º",
+        "nickname": "zShakur",
+        "time": "00h04m02s",
+        "date": "12 de Dezembro de 2021 às 12:35"
+    },
+    {
+        "rank": "5º",
+        "floor": "3º",
+        "nickname": "ManKiller",
+        "time": "00h04m37s",
+        "date": "5 de Dezembro de 2021 às 01:02"
+    },
+    {
+        "rank": "1º",
+        "floor": "2º",
+        "nickname": "ExDeus",
+        "time": "00h03m24s",
+        "date": "16 de Dezembro de 2021 às 09:46"
+    },
+    {
+        "rank": "2º",
+        "floor": "2º",
+        "nickname": "Alco",
+        "time": "00h03m44s",
+        "date": "4 de Dezembro de 2021 às 16:29"
+    },
+    {
+        "rank": "3º",
+        "floor": "2º",
+        "nickname": "xre",
+        "time": "00h04m13s",
+        "date": "1 de Dezembro de 2021 às 18:46"
+    },
+    {
+        "rank": "4º",
+        "floor": "2º",
+        "nickname": "AlphaZero",
+        "time": "00h04m16s",
+        "date": "15 de Dezembro de 2021 às 12:19"
+    },
+    {
+        "rank": "5º",
+        "floor": "2º",
+        "nickname": "TIGRE",
+        "time": "00h04m53s",
+        "date": "1 de Dezembro de 2021 às 20:25"
+    },
+    {
+        "rank": "1º",
+        "floor": "1º",
+        "nickname": "ExDeus",
+        "time": "00h03m42s",
+        "date": "16 de Dezembro de 2021 às 09:11"
+    },
+    {
+        "rank": "2º",
+        "floor": "1º",
+        "nickname": "xre",
+        "time": "00h03m50s",
+        "date": "1 de Dezembro de 2021 às 18:41"
+    },
+    {
+        "rank": "3º",
+        "floor": "1º",
+        "nickname": "AlphaZero",
+        "time": "00h03m56s",
+        "date": "15 de Dezembro de 2021 às 12:32"
+    },
+    {
+        "rank": "4º",
+        "floor": "1º",
+        "nickname": "LeoHelloween",
+        "time": "00h04m13s",
+        "date": "1 de Dezembro de 2021 às 10:55"
+    },
+    {
+        "rank": "5º",
+        "floor": "1º",
+        "nickname": "TIGRE",
+        "time": "00h04m28s",
+        "date": "1 de Dezembro de 2021 às 20:19"
+    }
+]
