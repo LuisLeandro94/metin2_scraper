@@ -9,8 +9,9 @@ const parsedResults = []
 const pageLimit = 12
 let pageCounter = 0
 let resultCount = 0
+var paginatedLink = ''
 
-console.log(chalk.yellow.bgBlue(`\n  Scraping of ${chalk.underline.bold(baseUrl)} initiated...\n`))
+console.log(chalk.yellow.bgWhite(`\n  Scraping of ${chalk.underline.bold(baseUrl)} initiated...\n`))
 
 const getWebsiteContent = async (url) => {
   try {
@@ -18,7 +19,7 @@ const getWebsiteContent = async (url) => {
     const $ = cheerio.load(response.data)
 
     // New Lists
-    $('body > div > div > main > section > div > table > tbody > tr').map((i, el) => {
+    $('body > div > div > main > section > div > table > tbody > tr').each((i, el) => {
       const count = resultCount++
       const tds = $(el).find("td");
       const rank = $(tds[0]).text();
@@ -32,7 +33,7 @@ const getWebsiteContent = async (url) => {
     })
 
     // Pagination Elements Link
-    const nextPageLink = $('.pagination').find('.active').parent().next().find('a').attr('href')
+    const nextPageLink = url + $('.pagination').find('.active').parent().next().find('a').attr('href');
     console.log(chalk.cyan(`  Scraping: ${nextPageLink}`))
     pageCounter++
 
@@ -41,7 +42,7 @@ const getWebsiteContent = async (url) => {
       return false
     }
 
-  getWebsiteContent(url + '?' + nextPageLink);
+    getWebsiteContent(nextPageLink);
   } catch (error) {
     exportResults(parsedResults)
     console.error(error)
@@ -53,7 +54,7 @@ const exportResults = (parsedResults) => {
     if (err) {
       console.log(err)
     }
-    console.log(chalk.yellow.bgBlue(`\n ${chalk.underline.bold(parsedResults.length)} Results exported successfully to ${chalk.underline.bold(outputFile)}\n`))
+    console.log(chalk.yellow.bgWhite(`\n ${chalk.underline.bold(parsedResults.length)} Results exported successfully to ${chalk.underline.bold(outputFile)}\n`))
   })
 }
 
